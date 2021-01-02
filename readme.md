@@ -22,7 +22,7 @@ Getting more familiar with the dataset, analyzing probabilities, and cleaning da
 
 Setting the hypothesis test based on the conversion rate of pages; old and new.<br>
 
-###Part III - Regression
+### Part III - Regression
 
 Achieve the same results of A/B testing by performing regression.<br>
 
